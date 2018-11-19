@@ -1,7 +1,7 @@
 # Index
 1. Application and interpret
     
-    * [Machine Learning Interpretability: A Science rather than a tool](#Machine-Learning-Interpretability:-A-Science-rather- than-a-tool) 
+    * [Machine Learning Interpretability: A Science rather than a tool](#machine-learning-interpretability-a-science-rather- than-a-tool) 
     * [Interpretable Policies for Reinforcement Learning by Genetic Programming](#interpretable-policies-for-reinforcement-learning-by-genetic-programming)
     * [Discovery Radiomics with CLEAR-DR: Interpretable Computer Aided  Diagnosis of Diabetic Retinopathy](#discovery-radiomics-with-clear-dr-interpretable-computer-aided--diagnosis-of-diabetic-retinopathy)
     * [Building Data-driven Models with Microstructural Images: Generalization  and Interpretability](#building-data-driven-models-with-microstructural-images-generalization--and-interpretability)
